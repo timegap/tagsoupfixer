@@ -3,7 +3,7 @@
 
 '''
 
-A tool to deal with dirty, bad and ugly HTML/XML snippets.
+A Python tool to deal with dirty, bad and ugly HTML/XML snippets.
 
 Timegap, june-october 2010
 
